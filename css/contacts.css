@@ -66,6 +66,7 @@ main {
   flex-direction: column;
   margin: auto;
   width: 60%;
+  height: 79.2vh;
 }
 .contact-info h1 {
   font-size: 2.5rem;
